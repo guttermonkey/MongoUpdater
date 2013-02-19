@@ -9,4 +9,4 @@ single entry in a collection using command-line arguments.
 You will need to download and install the MongoDB C# driver, which can be found here:
 https://github.com/mongodb/mongo-csharp-driver/downloads
 
-Usage: 'MongoUpdater.exe <server> <database> <collection> <search key> <value for search key> <update key> <update value>'
+Usage: 'MongoUpdater.exe server database collection searchKey searchValue updateKey updateValue'
